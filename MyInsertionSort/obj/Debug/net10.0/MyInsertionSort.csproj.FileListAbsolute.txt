@@ -1,0 +1,12 @@
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\bin\Debug\net10.0\MyInsertionSort.deps.json
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\bin\Debug\net10.0\MyInsertionSort.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\bin\Debug\net10.0\MyInsertionSort.pdb
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\MyInsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\MyInsertionSort.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\MyInsertionSort.AssemblyInfo.cs
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\MyInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\MyInsertionSort.sourcelink.json
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\MyInsertionSort.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\refint\MyInsertionSort.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\MyInsertionSort.pdb
+C:\Users\Student\source\repos\LilitMikayelyan8\MyDataStructures22\MyInsertionSort\obj\Debug\net10.0\ref\MyInsertionSort.dll
